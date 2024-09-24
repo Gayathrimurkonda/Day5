@@ -1,0 +1,19 @@
+.circle1{
+    width: 30px;
+    height: 30px; 
+    border-radius: 50%;
+    border:1px rgb(212, 34, 18) solid;
+    position: absolute;
+    margin: 5%;
+    padding: 5%;
+}
+.circle2{
+    border-radius: 100%;
+    border:1px rgb(13, 1, 25) solid;
+    width: 40px;
+    height: 40px; 
+    position: absolute;
+    margin: 10%;
+    padding: 10%;
+    left: 10%;
+}

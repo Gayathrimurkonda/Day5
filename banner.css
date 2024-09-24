@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    margin: 0px;
+    box-sizing:border-box ;
+}
+body{
+    background-color: #222;
+    color: #ffffff;
+}
+.banner{
+    background: linear-gradient(120deg, #181818 5%, hsla(0, 0%, 9%, .98) 6%, hsla(0, 0%, 9%, .97) 7%, hsla(0, 0%, 9%, .95) 7%, hsla(0, 0%, 9%, .94) 10%, hsla(0, 0%, 9%, .92) 15%, hsla(0, 0%, 9%, .9) 18%, hsla(0, 0%, 9%, .87) 20%, hsla(0, 0%, 9%, .82) 20%, hsla(0, 0%, 9%, .75) 20%, hsla(0, 0%, 9%, .63) 40%, hsla(0, 0%, 9%, .45) 75%, hsla(0, 0%, 9%, .27) 80%, hsla(0, 0%, 9%, .15) 85%, hsla(0, 0%, 9%, .08) 90%, hsla(0, 0%, 9%, .03) 98%, hsla(0, 0%, 9%, 0)),url("https://occ-0-7613-3663.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABc75Mwi3MXMaS8FD7obpXI0STHHnDeD8XCv6uwMI9qL_nTa6_Ceu6END9ALWu3jj1BEBtFICTon0jbRI2xm2jUdeJbWc-baxYNfG.jpg?r=a93&quot");
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 600px;
+}
+.bannercontent .bannertitle img{
+    object-fit: contain;
+    max-width: 50%;
+}
+.bannercontent{
+    padding: 15% 10%;
+}
+.bannercontent .bannertitle h1{
+    font-size:30px ;
+    padding: 10px 0px;
+}
+.bannercontent .bannertitle h3{
+    color: #a3a3a3;
+    font-weight: 400;
+    font-size: 20px;
+}
+.bannercontent .bannertitle span{
+    padding: 0 10px;
+}
+.banner .user1{
+    border:2px solid #a3a3a3;
+    padding: 10px 20px;
+}
+.bannercontent .bannertitle p{
+    max-width: 50%;
+    padding: 10px 0px;
+}
